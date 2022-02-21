@@ -1,0 +1,9 @@
+{
+  "name": "This is JSON",
+  "type": "json",
+  "date": "2016-04-13T18:57:40.517Z",
+  "object": {
+    "number": 10923,
+    "bool": false
+  }
+}

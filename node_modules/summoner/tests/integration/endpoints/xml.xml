@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<collection>
+  <container>
+    <title>The King and You</title>
+    <number>2345</number>
+    <description>This is a book about you and a king</description>
+  </container>
+  <container>
+    <title>Hope of the Southwest</title>
+    <number>234576</number>
+    <description>This is actually a coin of unknown origin</description>
+  </container>
+  <container>
+    <title>Truth</title>
+    <number>23454235432</number>
+    <description>Just kidding</description>
+  </container>
+</collection>

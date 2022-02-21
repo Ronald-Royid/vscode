@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+cd ./tests/integration/
+../../node_modules/.bin/http-server -p 7070 1> /dev/null & 
+# ./node_modules/.bin/http-server -p 7575
+
+node ./index.js
+
+kill %1
