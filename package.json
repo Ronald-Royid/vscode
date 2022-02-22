@@ -3,6 +3,7 @@
     "axios": "^0.26.0",
     "error": "^10.4.0",
     "express": "^4.17.3",
+    "fs": "^0.0.1-security",
     "http": "^0.0.1-security",
     "region": "^2.1.2",
     "summoner": "^0.2.0"
